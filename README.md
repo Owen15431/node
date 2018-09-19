@@ -17,7 +17,7 @@ The Node.js project is supported by the
 policies, and releases are managed under an
 [open governance model](./GOVERNANCE.md).
 
-**This project is bound by a [Code of Conduct][].**
+
 
 
 # Table of Contents
